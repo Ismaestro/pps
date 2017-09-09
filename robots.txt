@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /404.php
+Disallow: /500.php
+Sitemap: https://www.peluqueriapilarsilvan.com/sitemap.xml
