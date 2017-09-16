@@ -1,29 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+    <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-<url>
-  <loc>https://www.peluqueriapilarsilvan.com/</loc>
-  <lastmod>2017-09-09T19:09:28+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://www.peluqueriapilarsilvan.com/nuestros-servicios</loc>
-  <lastmod>2017-09-09T19:09:28+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://www.peluqueriapilarsilvan.com/productos</loc>
-  <lastmod>2017-09-09T19:09:28+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://www.peluqueriapilarsilvan.com/precios</loc>
-  <lastmod>2017-09-09T19:09:28+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-</url>
+    <url>
+        <loc>https://www.peluqueriapilarsilvan.com/</loc>
+        <lastmod>2017-09-09T19:09:28+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.peluqueriapilarsilvan.com/nuestros-servicios</loc>
+        <lastmod>2017-09-09T19:09:28+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.peluqueriapilarsilvan.com/productos</loc>
+        <lastmod>2017-09-09T19:09:28+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.peluqueriapilarsilvan.com/precios</loc>
+        <lastmod>2017-09-09T19:09:28+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.peluqueriapilarsilvan.com/aviso-legal</loc>
+        <lastmod>2017-09-09T19:09:28+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.peluqueriapilarsilvan.com/politica-privacidad</loc>
+        <lastmod>2017-09-09T19:09:28+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
 </urlset>
