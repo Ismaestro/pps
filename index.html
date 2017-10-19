@@ -48,6 +48,7 @@ limitations under the License.
     <script async="" src="https://cdn.ampproject.org/v0.js"></script>
     <script custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js" async=""></script>
     <script custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js" async=""></script>
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
 
     <noscript>
         <style amp-boilerplate="">
@@ -76,6 +77,10 @@ limitations under the License.
 
         main {
             max-width: none
+        }
+
+        h1 {
+            margin-top: 3.5em;
         }
 
         h1, h2 {
@@ -456,5 +461,21 @@ limitations under the License.
         <a href="https://www.peluqueriapilarsilvan.com">www.peluqueriapilarsilvan.com</a>
     </small>
 </footer>
+
+<amp-analytics type="googleanalytics" id="analytics2">
+    <script type="application/json">
+        {
+            "vars": {
+                "account": "UA-107711985-2"
+            },
+            "triggers": {
+                "default pageview": {
+                    "on": "visible",
+                    "request": "pageview"
+                }
+            }
+        }
+    </script>
+</amp-analytics>
 </body>
 </html>
